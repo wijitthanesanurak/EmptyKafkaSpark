@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0mPackaging C:\Works\spark_procera\target\scala-2.11\spark-procera_2.11-1.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org\apache\spark\examples\streaming\ProceraCompute$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache\spark\examples\streaming\ProceraCompute$.class[0m
+[0m[[0mdebug[0m] [0m	org[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org[0m
+[0m[[0mdebug[0m] [0m	org\apache\spark\examples\streaming\ProceraCompute.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache\spark\examples\streaming\ProceraCompute.class[0m
+[0m[[0mdebug[0m] [0m	org\apache\spark\examples\streaming\ProceraCompute$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache\spark\examples\streaming\ProceraCompute$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	org\apache\spark[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache\spark[0m
+[0m[[0mdebug[0m] [0m	org\apache\spark\examples\streaming\ProceraCompute$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache\spark\examples\streaming\ProceraCompute$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	org\apache\spark\examples\streaming\ProceraCompute$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache\spark\examples\streaming\ProceraCompute$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	org\apache\spark\examples\streaming[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache\spark\examples\streaming[0m
+[0m[[0mdebug[0m] [0m	org\apache\spark\examples\streaming\ProceraCompute$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache\spark\examples\streaming\ProceraCompute$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org\apache[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache[0m
+[0m[[0mdebug[0m] [0m	org\apache\spark\examples\streaming\ProceraCompute$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache\spark\examples\streaming\ProceraCompute$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	org\apache\spark\examples\streaming\ProceraCompute$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache\spark\examples\streaming\ProceraCompute$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3.class[0m
+[0m[[0mdebug[0m] [0m	org\apache\spark\examples[0m
+[0m[[0mdebug[0m] [0m	  C:\Works\spark_procera\target\scala-2.11\classes\org\apache\spark\examples[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
